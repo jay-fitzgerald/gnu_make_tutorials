@@ -44,7 +44,7 @@ guide.
 ## Function Tutorials
 
 For the function tutorials, the goal for the output was to display the function calls
-in addition to their results. To keep the code short and readable, calls were placed
+in addition to their results. To keep the code short and readable, calls were placed in
 recursive variables. In real-world use-cases, you probably wouldn't do this because of the
 performance cost.
 
